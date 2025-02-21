@@ -13,16 +13,16 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Método PMG - Aprenda Marketing Digital do Zero",
-  description: "Descubra como dominar o marketing digital do zero com o Método PMG. Estratégias comprovadas para alavancar negócios online.",
-  keywords: "marketing digital, método PMG, curso de marketing, tráfego pago, estratégias digitais",
+  title: "Método PVR - Aprenda Marketing Digital do Zero",
+  description: "Descubra como dominar o marketing digital do zero com o Método PVR. Estratégias comprovadas para alavancar negócios online.",
+  keywords: "marketing digital, método PVR, curso de marketing, tráfego pago, estratégias digitais",
   robots: "index, follow",
   openGraph: {
-    title: "Método PMG - Aprenda Marketing Digital do Zero",
-    description: "Descubra como dominar o marketing digital do zero com o Método PMG. Estratégias comprovadas para alavancar negócios online.",
+    title: "Método PVR - Aprenda Marketing Digital do Zero",
+    description: "Descubra como dominar o marketing digital do zero com o Método PVR. Estratégias comprovadas para alavancar negócios online.",
     type: "website",
-    url: "https://metodopmg.vercel.app",
-    images: "https://seusite.com/imagem.jpg",
+    url: "https://www.metodopvr.com.br",
+    images: "https://www.metodopvr.com.br/_next/image?url=%2Fimage1.png&w=384&q=75",
   }
 };
 
